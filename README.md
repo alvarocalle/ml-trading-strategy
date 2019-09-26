@@ -1,4 +1,4 @@
-# ml-trading-strategy
+# ML Trading Strategy
 Trading strategy of High Frequency Data using ML (Classification)
 
 ## Introduction
